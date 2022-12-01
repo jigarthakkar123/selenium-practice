@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14666" started-at="2022-12-01T16:07:38 IST" finished-at="2022-12-01T16:07:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14666" started-at="2022-12-01T16:07:38 IST" finished-at="2022-12-01T16:07:53 IST">
+      <class name="com.fw.HybridDriverFW">
+        <test-method status="PASS" signature="test(java.lang.String,java.lang.String)[pri:0, instance:com.fw.HybridDriverFW@86be70a]" name="test" duration-ms="4318" started-at="2022-12-01T16:07:39 IST" data-provider="jigar" finished-at="2022-12-01T16:07:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[open browser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String,java.lang.String)[pri:0, instance:com.fw.HybridDriverFW@86be70a]" name="test" duration-ms="2984" started-at="2022-12-01T16:07:43 IST" data-provider="jigar" finished-at="2022-12-01T16:07:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[enter url]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String,java.lang.String)[pri:0, instance:com.fw.HybridDriverFW@86be70a]" name="test" duration-ms="2159" started-at="2022-12-01T16:07:46 IST" data-provider="jigar" finished-at="2022-12-01T16:07:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[enter username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String,java.lang.String)[pri:0, instance:com.fw.HybridDriverFW@86be70a]" name="test" duration-ms="2149" started-at="2022-12-01T16:07:48 IST" data-provider="jigar" finished-at="2022-12-01T16:07:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[enter password]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String,java.lang.String)[pri:0, instance:com.fw.HybridDriverFW@86be70a]" name="test" duration-ms="2212" started-at="2022-12-01T16:07:51 IST" data-provider="jigar" finished-at="2022-12-01T16:07:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[click login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String,java.lang.String)[pri:0, instance:com.fw.HybridDriverFW@86be70a]" name="test" duration-ms="169" started-at="2022-12-01T16:07:53 IST" data-provider="jigar" finished-at="2022-12-01T16:07:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[close browser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.fw.HybridDriverFW -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
